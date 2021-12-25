@@ -5,4 +5,4 @@
 > Khóa k18
 > Lớp 18-1/2021
 
-`![Report](https://docs.google.com/document/d/10tqYWnnpV7PDtCWpH9vfc7YYY42_YoJfKXjPL62368o/edit?usp=sharing) (<a>)`
+Report: <https://docs.google.com/document/d/10tqYWnnpV7PDtCWpH9vfc7YYY42_YoJfKXjPL62368o/edit?usp=sharing/>
