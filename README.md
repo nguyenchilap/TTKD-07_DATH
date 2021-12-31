@@ -1,4 +1,4 @@
-# TTKD-07_DATH
+# TTKD-07_ETL
 > * Đồ án thực hành môn Hệ thống thông tin phục vụ Trí tuệ kinh doanh
 > * Khoa Công nghệ thông tin
 > * Chuyên ngành Hệ thống thông tin 
